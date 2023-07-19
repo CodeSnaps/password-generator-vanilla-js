@@ -1,0 +1,28 @@
+// {
+//   "window.zoomLevel": 4,
+//   "workbench.colorTheme": "GitHub Dark Default",
+//   "workbench.statusBar.visible": false,
+//   "workbench.activityBar.visible": false,
+//   "editor.minimap.enabled": false,
+//   "prettier.printWidth": 80,
+//   "prettier.singleQuote": true,
+//   "breadcrumbs.enabled": false,
+//   "editor.scrollbar.vertical": "hidden",
+//   "git.decorations.enabled": false,
+//   "editor.wordWrap": "wordWrapColumn",
+//   "editor.wrappingIndent": "same",
+//   "editor.wordWrapColumn": 100,
+//   "editor.lightbulb.enabled": false,
+//   "workbench.colorCustomizations": {
+//     "editorError.foreground": "#00000000",
+//     "editorWarning.foreground": "#00000000",
+//     "editorInfo.foreground": "#00000000"
+//   },
+//   "github.copilot.enable": {
+//     "*": false,
+//     "yaml": false,
+//     "plaintext": false,
+//     "markdown": false
+//   },
+//   "files.exclude": {}
+// }
